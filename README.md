@@ -3,9 +3,12 @@
 Homework files 
 
 HW1:
-  HW1.ipynb(https://github.com/LG0123/ESDA_LG0123/blob/master/HW1.ipynb)
-  file.nc
+  [HW1.ipynb](https://github.com/LG0123/ESDA_LG0123/blob/master/HW1.ipynb)
+  
+  [file.nc](https://github.com/LG0123/ESDA_LG0123/blob/master/file.nc) 
   
   
 HW2:
+  [HW2.ipynb](https://github.com/LG0123/ESDA_LG0123/blob/master/HW2.ipynb)
+  
   
